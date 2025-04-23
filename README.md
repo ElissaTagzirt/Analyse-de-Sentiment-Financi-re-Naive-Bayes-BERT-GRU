@@ -1,6 +1,6 @@
 ## Analyse de Sentiment — Lab 01 & Lab 02
 
-Ce dossier contient deux notebooks Jupyter consacrés à l’analyse de sentiment sur un jeu de données financières (`finance_sentiment.csv`), réalisés en équipe par Lina Sadi, Elissa Tagzirt, Cylia Messar, Ilhem Kherroubi et Islam Kedadsa.
+Ce dossier contient deux notebooks Jupyter consacrés à l’analyse de sentiment sur un jeu de données financières (`finance_sentiment.csv`)
 
 ### Lab 01 – Approche Classique
 - **Lecture & Préparation des données** : chargement du CSV, nettoyage minimal, découpage train/test (70 %/30 %).
